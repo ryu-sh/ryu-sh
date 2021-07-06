@@ -12,6 +12,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-brightgreen?style=flat-square&logo=Spring&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/JPA-black?style=flat-square&logo=Databricks&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Junit5-yellow?style=flat-square&logo=Junit5&logoColor=white"/></a>
 </br>
 <img src="https://img.shields.io/badge/Maven-yellowgreen?style=flat-square&logo=ApacheMaven&logoColor=white"/></a>
